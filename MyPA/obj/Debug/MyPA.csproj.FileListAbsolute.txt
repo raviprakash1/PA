@@ -1,0 +1,10 @@
+D:\PA\MyPA\bin\Debug\MyPA.exe.config
+D:\PA\MyPA\bin\Debug\MyPA.exe
+D:\PA\MyPA\bin\Debug\MyPA.pdb
+D:\PA\MyPA\obj\Debug\MyPA.csprojResolveAssemblyReference.cache
+D:\PA\MyPA\obj\Debug\MyPA.Form1.resources
+D:\PA\MyPA\obj\Debug\MyPA.Properties.Resources.resources
+D:\PA\MyPA\obj\Debug\MyPA.csproj.GenerateResource.Cache
+D:\PA\MyPA\obj\Debug\MyPA.exe
+D:\PA\MyPA\obj\Debug\MyPA.pdb
+D:\PA\MyPA\bin\Debug\microsoft.speech.dll
