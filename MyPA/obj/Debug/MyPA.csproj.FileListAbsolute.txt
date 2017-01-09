@@ -1,9 +1,0 @@
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\bin\Debug\MyPA.exe.config
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\bin\Debug\MyPA.exe
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\bin\Debug\MyPA.pdb
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.csprojResolveAssemblyReference.cache
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.Form1.resources
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.Properties.Resources.resources
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.csproj.GenerateResource.Cache
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.exe
-c:\users\kiwitech\documents\visual studio 2015\Projects\MyPA\MyPA\obj\Debug\MyPA.pdb
